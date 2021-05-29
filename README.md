@@ -24,7 +24,6 @@ SQL_HOST =localhost
 SQL_PORT=3306
 SQL_USER=root
 SQL_PASSWORD=YES
-SQL_DATABASE=internship
 API_KEY = ae89363b2bb77f4fccc6a6be2b940d68
 ```
 5. Install NPM packages : `npm i`
